@@ -11,5 +11,5 @@ The CMP Facade dataset consists of images of building facades and their correspo
 |Testing |0.40|
 
 # References
-CycleGAN Paper: [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)
-CMP Facade Dataset: http://cmp.felk.cvut.cz/%7Etylecr1/facade/
+- CycleGAN Paper: [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)
+- CMP Facade Dataset: http://cmp.felk.cvut.cz/%7Etylecr1/facade/
