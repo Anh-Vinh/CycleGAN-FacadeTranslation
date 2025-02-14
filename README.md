@@ -10,8 +10,8 @@ The model was trained on Kaggle for 200 epochs, using Adam optimizer with learni
 # Result
 |SSIM                 |Training|Testing|
 |---------------------|--------|-------|
-|Segmentation -> Image|  0.017 |  0.38 |
-|Image -> Segmentation|  0.028 |  0.39 |
+|Segmentation -> Image| 0.018  | 0.384 |
+|Image -> Segmentation| 0.029  | 0.397 |
 
 # References
 - CycleGAN Paper: [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)
