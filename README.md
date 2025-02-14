@@ -6,6 +6,7 @@ The CMP Facade dataset consists of images of building facades and their correspo
 
 # Result
 |        |SSIM|
+|--------|----|
 |Training|0.38|
 |Testing |0.40|
 
