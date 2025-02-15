@@ -17,7 +17,6 @@ Some result from the test dataset
 ![image](https://github.com/user-attachments/assets/6b8c5227-a71d-47b4-9c5d-a95cacd1b980)
 ![image](https://github.com/user-attachments/assets/4c5af0fe-28ac-44e2-9068-19b08be7d3ff)
 ![image](https://github.com/user-attachments/assets/d66bcf27-d938-4fd1-ba32-c0355b434ac1)
-
 Result from the original paper for references:
 ![image](https://github.com/user-attachments/assets/c2d4cdae-4835-488d-b379-f70206a813ef)
 More original paper's result in: https://taesung.me/cyclegan/2017/03/25/facades.html
