@@ -14,15 +14,13 @@ The model was trained on Kaggle for 200 epochs, using Adam optimizer with learni
 |Image -> Segmentation| 0.029  | 0.397 |
 
 Some result from the test dataset
-- Segmentation to image:
-![test1](https://github.com/user-attachments/assets/41de77d6-374f-41e0-961b-8976704ad121)
-![test2](https://github.com/user-attachments/assets/72f30a1b-a7c1-42eb-8653-3241d32a348f)
-![test3](https://github.com/user-attachments/assets/c5f09d9a-8dd8-46a1-bb21-e3f6152061bd)
-- Image to segmentation:
-![test1](https://github.com/user-attachments/assets/90ba3696-b80e-42a8-841d-91e5fefe6109)
-![test2](https://github.com/user-attachments/assets/c4ab2ccf-9c9e-4198-9cdb-a326189a64c6)
-![test3](https://github.com/user-attachments/assets/d1353b21-5ac3-42c0-a19a-1ee526d18ab5)
+![image](https://github.com/user-attachments/assets/6b8c5227-a71d-47b4-9c5d-a95cacd1b980)
+![image](https://github.com/user-attachments/assets/4c5af0fe-28ac-44e2-9068-19b08be7d3ff)
+![image](https://github.com/user-attachments/assets/d66bcf27-d938-4fd1-ba32-c0355b434ac1)
 
+Result from the original paper for references:
+![image](https://github.com/user-attachments/assets/c2d4cdae-4835-488d-b379-f70206a813ef)
+More original paper's result in: https://taesung.me/cyclegan/2017/03/25/facades.html
 
 # References
 - CycleGAN Paper: [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)
