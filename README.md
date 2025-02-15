@@ -5,7 +5,7 @@ This project trains a CycleGAN model to translate images from the CMP Facade dat
 The CMP Facade dataset consists of images of building facades and their corresponding segmentation masks. The dataset is used to train the CycleGAN model to learn mappings between real facade images and their segmentation counterparts.
 
 # Training
-The model was trained on Kaggle for 200 epochs, using Adam optimizer with learning rate of 2e-4 for the first 100 epoch and linear decay for the next 100 like in the paper. Generator G maps segmentation masks to building facade images, while Generator F performs the reverse mapping.
+The model was trained on Kaggle for 200 epochs, using Adam optimizer with learning rate of 2e-4 for the first 100 epoch and linear decay for the next 100 like in the paper. Cycle-GAN Consist of 2 Generator, one maps segmentation masks to building facade images, while the other performs the reverse mapping.
 
 # Result
 |SSIM                 |Training|Testing|
