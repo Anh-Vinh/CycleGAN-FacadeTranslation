@@ -13,9 +13,15 @@ The model was trained on Kaggle for 200 epochs, using Adam optimizer with learni
 |Segmentation -> Image| 0.018  | 0.384 |
 |Image -> Segmentation| 0.029  | 0.397 |
 
-Some result from train dataset
-![itos_train1](https://github.com/user-attachments/assets/f0593592-2376-4aa9-aee0-d9deec8a7c4f)
-![stoi_train1](https://github.com/user-attachments/assets/f4192d60-4279-4eec-8453-1f053c76fc24)
+Some result from the test dataset
+- Segmentation to image:
+![test1](https://github.com/user-attachments/assets/41de77d6-374f-41e0-961b-8976704ad121)
+![test2](https://github.com/user-attachments/assets/72f30a1b-a7c1-42eb-8653-3241d32a348f)
+![test3](https://github.com/user-attachments/assets/c5f09d9a-8dd8-46a1-bb21-e3f6152061bd)
+- Image to segmentation:
+![test1](https://github.com/user-attachments/assets/90ba3696-b80e-42a8-841d-91e5fefe6109)
+![test2](https://github.com/user-attachments/assets/c4ab2ccf-9c9e-4198-9cdb-a326189a64c6)
+![test3](https://github.com/user-attachments/assets/d1353b21-5ac3-42c0-a19a-1ee526d18ab5)
 
 
 # References
