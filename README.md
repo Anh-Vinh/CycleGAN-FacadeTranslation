@@ -12,10 +12,11 @@ The model was trained on Kaggle for 200 epochs, using Adam optimizer with learni
 |---------------------|--------|-------|
 |Segmentation -> Image| 0.018  | 0.384 |
 |Image -> Segmentation| 0.029  | 0.397 |
-|---------------------|--------|-------|
 
 Some result from train dataset
-![Train Image]('\train\image_to_segmentation\train1.png')
+![itos_train1](https://github.com/user-attachments/assets/f0593592-2376-4aa9-aee0-d9deec8a7c4f)
+![stoi_train1](https://github.com/user-attachments/assets/f4192d60-4279-4eec-8453-1f053c76fc24)
+
 
 # References
 - CycleGAN Paper: [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)
