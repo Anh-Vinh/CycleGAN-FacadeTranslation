@@ -10,8 +10,8 @@ The model was trained on Kaggle for 200 epochs, using Adam optimizer with learni
 # Result
 |SSIM                 |Training|Testing|
 |---------------------|--------|-------|
-|Segmentation -> Image| 0.018  | 0.384 |
-|Image -> Segmentation| 0.029  | 0.397 |
+|Segmentation -> Image| 0.018  | 0.029 |
+|Image -> Segmentation| 0.384  | 0.397 |
 
 Some result from the test dataset
 ![image](https://github.com/user-attachments/assets/6b8c5227-a71d-47b4-9c5d-a95cacd1b980)
